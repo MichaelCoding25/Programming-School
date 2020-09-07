@@ -18,5 +18,8 @@
     <ClCompile Include="WorkingSheet1-MichaelSpector.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="WorkingSheet2-MichaelSpector.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
