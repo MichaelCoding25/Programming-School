@@ -1,0 +1,8 @@
+﻿  WorkingSheet1-MichaelSpector.c
+C:\Users\mikis\OneDrive\Desktop\Coding\C\Working Sheets\WorkingSheet1-MichaelSpector.c(324,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mikis\OneDrive\Desktop\Coding\C\Working Sheets\WorkingSheet1-MichaelSpector.c(325,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mikis\OneDrive\Desktop\Coding\C\Working Sheets\WorkingSheet1-MichaelSpector.c(326,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mikis\OneDrive\Desktop\Coding\C\Working Sheets\WorkingSheet1-MichaelSpector.c(327,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mikis\OneDrive\Desktop\Coding\C\Working Sheets\WorkingSheet1-MichaelSpector.c(331,12): warning C4477: 'printf' : format string '%f' requires an argument of type 'double', but variadic argument 1 has type 'int'
+C:\Users\mikis\OneDrive\Desktop\Coding\C\Working Sheets\WorkingSheet1-MichaelSpector.c(331,12): warning C4477: 'printf' : format string '%f' requires an argument of type 'double', but variadic argument 2 has type 'int'
+  Working Sheets.vcxproj -> C:\Users\mikis\OneDrive\Desktop\Coding\C\Working Sheets\Debug\Working Sheets.exe
