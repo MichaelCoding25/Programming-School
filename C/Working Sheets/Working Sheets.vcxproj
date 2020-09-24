@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Dynamic-Memory-Allocation-Exercise-24_09_2020.c" />
     <ClCompile Include="WorkingSheet1-MichaelSpector.c" />
     <ClCompile Include="WorkingSheet2-MichaelSpector.c" />
   </ItemGroup>

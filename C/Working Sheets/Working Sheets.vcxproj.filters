@@ -21,5 +21,8 @@
     <ClCompile Include="WorkingSheet2-MichaelSpector.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Dynamic-Memory-Allocation-Exercise-24_09_2020.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

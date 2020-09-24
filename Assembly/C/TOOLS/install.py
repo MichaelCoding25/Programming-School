@@ -21,12 +21,12 @@ def createShortcut(confFile):
 def main():
     try:
         vars_to_replace = {
-            "%cPath%": sys.argv[0][:r"D:\Personal\School\Computers\יא\Assembly\tools\install.py".rindex(r"\tools")],
+            "%cPath%": sys.argv[0][:r"C:\Users\mikis\OneDrive\Desktop\Coding\Assembly\C\TOOLS\install.py".rindex(r"\tools")],
             "%toolsPath%": r"C:\TOOLS"
         }
         repalce_vars(CONF_FILE_NAME, vars_to_replace)
         createShortcut(
-            sys.argv[0][:r"D:\Personal\School\Computers\יא\Assembly\tools\install.py".rindex("\\") + 1] + CONF_FILE_NAME)
+            sys.argv[0][:r"C:\Users\mikis\OneDrive\Desktop\Coding\Assembly\C\TOOLS\install.py".rindex("\\") + 1] + CONF_FILE_NAME)
     except Exception as e:
         raise
         print("\nError:\n\n")
