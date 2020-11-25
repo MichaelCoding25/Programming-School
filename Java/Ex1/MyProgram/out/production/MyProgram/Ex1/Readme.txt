@@ -6,7 +6,7 @@ Date: 6/11/2020
 Description of algorithm:
 The algorithm gets 2 natural numbers and finds the greatest prime common divisor. The algorithm works by finding the GCD of the numbers, then finding the greatest prime factor of that GCD, and printing the GPCD.
 
-Dependencies: package com.company
+Dependencies: package Ex1
 
 ------------------------------------------------
 Pseudo Code:

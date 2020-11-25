@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fca98164-281e-44df-9130-ae2304fdee9b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Ex2_v1/src/Ex2/Ex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex1/325112738.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex1/MyProgram/out/production/MyProgram/Ex1/Ex1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex1/MyProgram/out/production/MyProgram/Ex1/Ex1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex1/MyProgram/out/production/MyProgram/Ex1/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex1/MyProgram/out/production/MyProgram/Ex1/Readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ex1/MyProgram/src/Ex1/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex1/MyProgram/src/Ex1/Ex1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1kBRbLP1qfKrfm8e7qbcUT74SZ3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Ex2_v1" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Ex2" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fca98164-281e-44df-9130-ae2304fdee9b" name="Default Changelist" comment="" />
+      <created>1605172071286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605172071286</updated>
+      <workItem from="1605172072430" duration="70000" />
+      <workItem from="1606082669455" duration="13000" />
+      <workItem from="1606171293288" duration="18000" />
+      <workItem from="1606171325292" duration="7000" />
+      <workItem from="1606326629849" duration="61000" />
+      <workItem from="1606326793675" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1060" y="441" key="FileChooserDialogImpl" timestamp="1606326825764">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="441" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1606326825764" />
+    <state x="871" y="320" key="new project wizard" timestamp="1605172139531">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="871" y="320" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1605172139531" />
+  </component>
+</project>
