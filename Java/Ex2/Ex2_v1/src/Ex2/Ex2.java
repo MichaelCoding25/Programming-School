@@ -28,14 +28,14 @@ public class Ex2 {
                 // Add the poly value to the string
                 polynom += poly[i];
 
-                // If it's not the first position which means x!^1
-                if (i != 0) {
-                    polynom += "x^" + i;
-                }
-
+                // If it's not the first position which means x^0
+                // If it's not the second position which means x^1
                 // Check if not in first position to not add '+' at end of string
                 if (i != 0) {
-                    polynom += " + ";
+                    if (i == 1)
+                        polynom += "x" + " + ";
+                    else
+                        polynom += "x^" + i + " + ";
                 }
             }
         }
@@ -69,7 +69,7 @@ public class Ex2 {
             sum[i] = p1[i];
         }
 
-        // Take ever term of first polynom
+        // Take every term of second polynom
         for (int i = 0; i < p2.length; i++) {
             sum[i] += p2[i];
         }
@@ -79,12 +79,6 @@ public class Ex2 {
 
     public static double[] mul(double[] p1, double[] p2) {// returns a new array representing the polynom of (p1)*(p2)
         double[] product = new double[p1.length + p2.length - 1];
-
-        // Initialize the polynom
-        for (int i = 0; i < p1.length + p2.length - 1; i++)
-        {
-            product[i] = 0;
-        }
 
         // Multiply two polynoms term by term
         // Take every term of first polynom
