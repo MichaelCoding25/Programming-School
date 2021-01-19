@@ -1,0 +1,13 @@
+E:\Personal\School\Computers\י\C#\Files\דף מעבדה 9\Ex9\Ex9\bin\Debug\Ex9.exe.config
+E:\Personal\School\Computers\י\C#\Files\דף מעבדה 9\Ex9\Ex9\bin\Debug\Ex9.exe
+E:\Personal\School\Computers\י\C#\Files\דף מעבדה 9\Ex9\Ex9\bin\Debug\Ex9.pdb
+E:\Personal\School\Computers\י\C#\Files\דף מעבדה 9\Ex9\Ex9\obj\Debug\Ex9.csprojResolveAssemblyReference.cache
+E:\Personal\School\Computers\י\C#\Files\דף מעבדה 9\Ex9\Ex9\obj\Debug\Ex9.exe
+E:\Personal\School\Computers\י\C#\Files\דף מעבדה 9\Ex9\Ex9\obj\Debug\Ex9.pdb
+F:\Personal\School\Computers\י\C#\Files\דף מעבדה 9\Ex9\Ex9\bin\Debug\Ex9.exe.config
+F:\Personal\School\Computers\י\C#\Files\דף מעבדה 9\Ex9\Ex9\bin\Debug\Ex9.exe
+F:\Personal\School\Computers\י\C#\Files\דף מעבדה 9\Ex9\Ex9\bin\Debug\Ex9.pdb
+F:\Personal\School\Computers\י\C#\Files\דף מעבדה 9\Ex9\Ex9\obj\Debug\Ex9.csprojResolveAssemblyReference.cache
+F:\Personal\School\Computers\י\C#\Files\דף מעבדה 9\Ex9\Ex9\obj\Debug\Ex9.csproj.CoreCompileInputs.cache
+F:\Personal\School\Computers\י\C#\Files\דף מעבדה 9\Ex9\Ex9\obj\Debug\Ex9.exe
+F:\Personal\School\Computers\י\C#\Files\דף מעבדה 9\Ex9\Ex9\obj\Debug\Ex9.pdb

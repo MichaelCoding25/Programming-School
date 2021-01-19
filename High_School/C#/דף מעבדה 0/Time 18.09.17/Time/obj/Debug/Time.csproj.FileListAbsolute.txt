@@ -1,0 +1,6 @@
+E:\Personal\School\Computers\C#\Time\Time\bin\Debug\Time.exe.config
+E:\Personal\School\Computers\C#\Time\Time\bin\Debug\Time.exe
+E:\Personal\School\Computers\C#\Time\Time\bin\Debug\Time.pdb
+E:\Personal\School\Computers\C#\Time\Time\obj\Debug\Time.csprojResolveAssemblyReference.cache
+E:\Personal\School\Computers\C#\Time\Time\obj\Debug\Time.exe
+E:\Personal\School\Computers\C#\Time\Time\obj\Debug\Time.pdb

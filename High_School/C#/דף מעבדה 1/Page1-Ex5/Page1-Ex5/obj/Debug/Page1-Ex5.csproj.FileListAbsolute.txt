@@ -1,0 +1,7 @@
+C:\Users\vlad\source\repos\Page1-Ex5\Page1-Ex5\bin\Debug\Page1-Ex5.exe.config
+C:\Users\vlad\source\repos\Page1-Ex5\Page1-Ex5\bin\Debug\Page1-Ex5.exe
+C:\Users\vlad\source\repos\Page1-Ex5\Page1-Ex5\bin\Debug\Page1-Ex5.pdb
+C:\Users\vlad\source\repos\Page1-Ex5\Page1-Ex5\obj\Debug\Page1-Ex5.csprojResolveAssemblyReference.cache
+C:\Users\vlad\source\repos\Page1-Ex5\Page1-Ex5\obj\Debug\Page1-Ex5.csproj.CoreCompileInputs.cache
+C:\Users\vlad\source\repos\Page1-Ex5\Page1-Ex5\obj\Debug\Page1-Ex5.exe
+C:\Users\vlad\source\repos\Page1-Ex5\Page1-Ex5\obj\Debug\Page1-Ex5.pdb

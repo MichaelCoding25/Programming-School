@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\CSharp\Ex4\Ex4\bin\Debug\Ex4.exe.config
+C:\Users\User\Desktop\CSharp\Ex4\Ex4\bin\Debug\Ex4.exe
+C:\Users\User\Desktop\CSharp\Ex4\Ex4\bin\Debug\Ex4.pdb
+C:\Users\User\Desktop\CSharp\Ex4\Ex4\obj\Debug\Ex4.exe
+C:\Users\User\Desktop\CSharp\Ex4\Ex4\obj\Debug\Ex4.pdb

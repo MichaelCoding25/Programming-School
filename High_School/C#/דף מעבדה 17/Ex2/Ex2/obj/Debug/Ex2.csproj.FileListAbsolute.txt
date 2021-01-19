@@ -1,0 +1,7 @@
+C:\Users\vlad\Desktop\Coding\C#\דף מעבדה 17\Ex2\Ex2\bin\Debug\Ex2.exe.config
+C:\Users\vlad\Desktop\Coding\C#\דף מעבדה 17\Ex2\Ex2\bin\Debug\Ex2.exe
+C:\Users\vlad\Desktop\Coding\C#\דף מעבדה 17\Ex2\Ex2\bin\Debug\Ex2.pdb
+C:\Users\vlad\Desktop\Coding\C#\דף מעבדה 17\Ex2\Ex2\obj\Debug\Ex2.csproj.CoreCompileInputs.cache
+C:\Users\vlad\Desktop\Coding\C#\דף מעבדה 17\Ex2\Ex2\obj\Debug\Ex2.exe
+C:\Users\vlad\Desktop\Coding\C#\דף מעבדה 17\Ex2\Ex2\obj\Debug\Ex2.pdb
+C:\Users\vlad\Desktop\Coding\C#\דף מעבדה 17\Ex2\Ex2\obj\Debug\Ex2.csprojResolveAssemblyReference.cache

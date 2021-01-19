@@ -1,0 +1,8 @@
+E:\Personal\School\Computers\י\C#\Files\דף מעבדה 12\Ex6\Ex6\bin\Debug\Ex6.exe.config
+F:\Personal\School\Computers\י\C#\Files\דף מעבדה 12\Ex6\Ex6\obj\Debug\Ex6.csprojResolveAssemblyReference.cache
+F:\Personal\School\Computers\י\C#\Files\דף מעבדה 12\Ex6\Ex6\obj\Debug\Ex6.csproj.CoreCompileInputs.cache
+F:\Personal\School\Computers\י\C#\Files\דף מעבדה 12\Ex6\Ex6\bin\Debug\Ex6.exe.config
+F:\Personal\School\Computers\י\C#\Files\דף מעבדה 12\Ex6\Ex6\bin\Debug\Ex6.exe
+F:\Personal\School\Computers\י\C#\Files\דף מעבדה 12\Ex6\Ex6\bin\Debug\Ex6.pdb
+F:\Personal\School\Computers\י\C#\Files\דף מעבדה 12\Ex6\Ex6\obj\Debug\Ex6.exe
+F:\Personal\School\Computers\י\C#\Files\דף מעבדה 12\Ex6\Ex6\obj\Debug\Ex6.pdb

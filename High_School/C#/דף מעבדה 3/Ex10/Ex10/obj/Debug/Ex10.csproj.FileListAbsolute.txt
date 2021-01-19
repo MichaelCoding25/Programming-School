@@ -1,0 +1,7 @@
+F:\Personal\School\Computers\י\C#\Files\דף מעבדה 3\Ex10\Ex10\bin\Debug\Ex10.exe.config
+F:\Personal\School\Computers\י\C#\Files\דף מעבדה 3\Ex10\Ex10\bin\Debug\Ex10.exe
+F:\Personal\School\Computers\י\C#\Files\דף מעבדה 3\Ex10\Ex10\bin\Debug\Ex10.pdb
+F:\Personal\School\Computers\י\C#\Files\דף מעבדה 3\Ex10\Ex10\obj\Debug\Ex10.csprojResolveAssemblyReference.cache
+F:\Personal\School\Computers\י\C#\Files\דף מעבדה 3\Ex10\Ex10\obj\Debug\Ex10.csproj.CoreCompileInputs.cache
+F:\Personal\School\Computers\י\C#\Files\דף מעבדה 3\Ex10\Ex10\obj\Debug\Ex10.exe
+F:\Personal\School\Computers\י\C#\Files\דף מעבדה 3\Ex10\Ex10\obj\Debug\Ex10.pdb

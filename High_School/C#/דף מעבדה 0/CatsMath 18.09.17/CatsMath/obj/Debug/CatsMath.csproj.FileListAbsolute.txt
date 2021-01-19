@@ -1,0 +1,6 @@
+E:\Personal\School\Computers\C#\CatsMath\CatsMath\bin\Debug\CatsMath.exe.config
+E:\Personal\School\Computers\C#\CatsMath\CatsMath\bin\Debug\CatsMath.exe
+E:\Personal\School\Computers\C#\CatsMath\CatsMath\bin\Debug\CatsMath.pdb
+E:\Personal\School\Computers\C#\CatsMath\CatsMath\obj\Debug\CatsMath.csprojResolveAssemblyReference.cache
+E:\Personal\School\Computers\C#\CatsMath\CatsMath\obj\Debug\CatsMath.exe
+E:\Personal\School\Computers\C#\CatsMath\CatsMath\obj\Debug\CatsMath.pdb

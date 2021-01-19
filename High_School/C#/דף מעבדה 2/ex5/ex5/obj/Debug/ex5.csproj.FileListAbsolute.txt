@@ -1,0 +1,6 @@
+E:\Personal\School\Computers\י\C#\Files\דף מעבדה 2\ex5\ex5\bin\Debug\ex5.exe.config
+E:\Personal\School\Computers\י\C#\Files\דף מעבדה 2\ex5\ex5\obj\Debug\ex5.csprojResolveAssemblyReference.cache
+E:\Personal\School\Computers\י\C#\Files\דף מעבדה 2\ex5\ex5\bin\Debug\ex5.exe
+E:\Personal\School\Computers\י\C#\Files\דף מעבדה 2\ex5\ex5\bin\Debug\ex5.pdb
+E:\Personal\School\Computers\י\C#\Files\דף מעבדה 2\ex5\ex5\obj\Debug\ex5.exe
+E:\Personal\School\Computers\י\C#\Files\דף מעבדה 2\ex5\ex5\obj\Debug\ex5.pdb

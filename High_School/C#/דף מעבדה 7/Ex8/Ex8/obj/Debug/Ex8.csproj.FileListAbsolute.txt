@@ -1,0 +1,5 @@
+D:\דף מעבדה 7\Ex8\Ex8\bin\Debug\Ex8.exe.config
+D:\דף מעבדה 7\Ex8\Ex8\bin\Debug\Ex8.exe
+D:\דף מעבדה 7\Ex8\Ex8\bin\Debug\Ex8.pdb
+D:\דף מעבדה 7\Ex8\Ex8\obj\Debug\Ex8.exe
+D:\דף מעבדה 7\Ex8\Ex8\obj\Debug\Ex8.pdb

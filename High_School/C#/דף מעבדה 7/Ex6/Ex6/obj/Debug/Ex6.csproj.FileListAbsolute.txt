@@ -1,0 +1,6 @@
+D:\דף מעבדה 7\Ex6\Ex6\bin\Debug\Ex6.exe.config
+D:\דף מעבדה 7\Ex6\Ex6\bin\Debug\Ex6.exe
+D:\דף מעבדה 7\Ex6\Ex6\bin\Debug\Ex6.pdb
+D:\דף מעבדה 7\Ex6\Ex6\obj\Debug\Ex6.csprojResolveAssemblyReference.cache
+D:\דף מעבדה 7\Ex6\Ex6\obj\Debug\Ex6.exe
+D:\דף מעבדה 7\Ex6\Ex6\obj\Debug\Ex6.pdb

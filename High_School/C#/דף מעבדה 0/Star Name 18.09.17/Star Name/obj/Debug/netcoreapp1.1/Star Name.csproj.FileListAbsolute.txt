@@ -1,0 +1,10 @@
+F:\Personal\School\Computers\C#\Files\דף מעבדה 0\Star Name\Star Name\bin\Debug\netcoreapp1.1\Star Name.deps.json
+F:\Personal\School\Computers\C#\Files\דף מעבדה 0\Star Name\Star Name\bin\Debug\netcoreapp1.1\Star Name.runtimeconfig.json
+F:\Personal\School\Computers\C#\Files\דף מעבדה 0\Star Name\Star Name\bin\Debug\netcoreapp1.1\Star Name.runtimeconfig.dev.json
+F:\Personal\School\Computers\C#\Files\דף מעבדה 0\Star Name\Star Name\bin\Debug\netcoreapp1.1\Star Name.dll
+F:\Personal\School\Computers\C#\Files\דף מעבדה 0\Star Name\Star Name\bin\Debug\netcoreapp1.1\Star Name.pdb
+F:\Personal\School\Computers\C#\Files\דף מעבדה 0\Star Name\Star Name\obj\Debug\netcoreapp1.1\Star Name.csprojResolveAssemblyReference.cache
+F:\Personal\School\Computers\C#\Files\דף מעבדה 0\Star Name\Star Name\obj\Debug\netcoreapp1.1\Star Name.csproj.CoreCompileInputs.cache
+F:\Personal\School\Computers\C#\Files\דף מעבדה 0\Star Name\Star Name\obj\Debug\netcoreapp1.1\Star Name.AssemblyInfo.cs
+F:\Personal\School\Computers\C#\Files\דף מעבדה 0\Star Name\Star Name\obj\Debug\netcoreapp1.1\Star Name.dll
+F:\Personal\School\Computers\C#\Files\דף מעבדה 0\Star Name\Star Name\obj\Debug\netcoreapp1.1\Star Name.pdb

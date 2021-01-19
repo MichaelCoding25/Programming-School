@@ -1,0 +1,6 @@
+E:\Personal\School\Computers\C#\Conversation 18.09.17\Conversation 18.09.17\bin\Debug\Conversation 18.09.17.exe.config
+E:\Personal\School\Computers\C#\Conversation 18.09.17\Conversation 18.09.17\bin\Debug\Conversation 18.09.17.exe
+E:\Personal\School\Computers\C#\Conversation 18.09.17\Conversation 18.09.17\bin\Debug\Conversation 18.09.17.pdb
+E:\Personal\School\Computers\C#\Conversation 18.09.17\Conversation 18.09.17\obj\Debug\Conversation 18.09.17.csprojResolveAssemblyReference.cache
+E:\Personal\School\Computers\C#\Conversation 18.09.17\Conversation 18.09.17\obj\Debug\Conversation 18.09.17.exe
+E:\Personal\School\Computers\C#\Conversation 18.09.17\Conversation 18.09.17\obj\Debug\Conversation 18.09.17.pdb

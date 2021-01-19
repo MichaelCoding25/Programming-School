@@ -1,0 +1,6 @@
+E:\Personal\School\Computers\י\C#\Files\דף מעבדה 2\Ex8\Ex8\bin\Debug\Ex8.exe.config
+E:\Personal\School\Computers\י\C#\Files\דף מעבדה 2\Ex8\Ex8\obj\Debug\Ex8.csprojResolveAssemblyReference.cache
+E:\Personal\School\Computers\י\C#\Files\דף מעבדה 2\Ex8\Ex8\bin\Debug\Ex8.exe
+E:\Personal\School\Computers\י\C#\Files\דף מעבדה 2\Ex8\Ex8\bin\Debug\Ex8.pdb
+E:\Personal\School\Computers\י\C#\Files\דף מעבדה 2\Ex8\Ex8\obj\Debug\Ex8.exe
+E:\Personal\School\Computers\י\C#\Files\דף מעבדה 2\Ex8\Ex8\obj\Debug\Ex8.pdb

@@ -1,0 +1,6 @@
+E:\Personal\School\Computers\י\C#\Files\דף מעבדה 2\Ex12\Ex12\bin\Debug\Ex12.exe.config
+E:\Personal\School\Computers\י\C#\Files\דף מעבדה 2\Ex12\Ex12\bin\Debug\Ex12.exe
+E:\Personal\School\Computers\י\C#\Files\דף מעבדה 2\Ex12\Ex12\bin\Debug\Ex12.pdb
+E:\Personal\School\Computers\י\C#\Files\דף מעבדה 2\Ex12\Ex12\obj\Debug\Ex12.csprojResolveAssemblyReference.cache
+E:\Personal\School\Computers\י\C#\Files\דף מעבדה 2\Ex12\Ex12\obj\Debug\Ex12.exe
+E:\Personal\School\Computers\י\C#\Files\דף מעבדה 2\Ex12\Ex12\obj\Debug\Ex12.pdb

@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\CSharp\Ex5\Ex5\bin\Debug\Ex5.exe.config
+C:\Users\User\Desktop\CSharp\Ex5\Ex5\bin\Debug\Ex5.exe
+C:\Users\User\Desktop\CSharp\Ex5\Ex5\bin\Debug\Ex5.pdb
+C:\Users\User\Desktop\CSharp\Ex5\Ex5\obj\Debug\Ex5.exe
+C:\Users\User\Desktop\CSharp\Ex5\Ex5\obj\Debug\Ex5.pdb

@@ -1,0 +1,6 @@
+E:\Personal\School\Computers\י\C#\Files\דף מעבדה 4\Ex11\Ex11\bin\Debug\Ex11.exe.config
+E:\Personal\School\Computers\י\C#\Files\דף מעבדה 4\Ex11\Ex11\bin\Debug\Ex11.exe
+E:\Personal\School\Computers\י\C#\Files\דף מעבדה 4\Ex11\Ex11\bin\Debug\Ex11.pdb
+E:\Personal\School\Computers\י\C#\Files\דף מעבדה 4\Ex11\Ex11\obj\Debug\Ex11.csprojResolveAssemblyReference.cache
+E:\Personal\School\Computers\י\C#\Files\דף מעבדה 4\Ex11\Ex11\obj\Debug\Ex11.exe
+E:\Personal\School\Computers\י\C#\Files\דף מעבדה 4\Ex11\Ex11\obj\Debug\Ex11.pdb

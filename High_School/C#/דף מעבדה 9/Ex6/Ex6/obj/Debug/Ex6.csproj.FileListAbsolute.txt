@@ -1,0 +1,5 @@
+E:\Personal\School\Computers\י\C#\Files\דף מעבדה 9\Ex6\Ex6\bin\Debug\Ex6.exe.config
+E:\Personal\School\Computers\י\C#\Files\דף מעבדה 9\Ex6\Ex6\bin\Debug\Ex6.exe
+E:\Personal\School\Computers\י\C#\Files\דף מעבדה 9\Ex6\Ex6\bin\Debug\Ex6.pdb
+E:\Personal\School\Computers\י\C#\Files\דף מעבדה 9\Ex6\Ex6\obj\Debug\Ex6.exe
+E:\Personal\School\Computers\י\C#\Files\דף מעבדה 9\Ex6\Ex6\obj\Debug\Ex6.pdb

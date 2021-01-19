@@ -1,0 +1,6 @@
+E:\Personal\School\Computers\C#\Book Details\Book Details\bin\Debug\Book Details.exe.config
+E:\Personal\School\Computers\C#\Book Details\Book Details\bin\Debug\Book Details.exe
+E:\Personal\School\Computers\C#\Book Details\Book Details\bin\Debug\Book Details.pdb
+E:\Personal\School\Computers\C#\Book Details\Book Details\obj\Debug\Book Details.csprojResolveAssemblyReference.cache
+E:\Personal\School\Computers\C#\Book Details\Book Details\obj\Debug\Book Details.exe
+E:\Personal\School\Computers\C#\Book Details\Book Details\obj\Debug\Book Details.pdb

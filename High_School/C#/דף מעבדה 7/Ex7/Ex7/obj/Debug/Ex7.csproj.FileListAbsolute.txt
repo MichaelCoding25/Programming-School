@@ -1,0 +1,5 @@
+D:\דף מעבדה 7\Ex7\Ex7\bin\Debug\Ex7.exe.config
+D:\דף מעבדה 7\Ex7\Ex7\bin\Debug\Ex7.exe
+D:\דף מעבדה 7\Ex7\Ex7\bin\Debug\Ex7.pdb
+D:\דף מעבדה 7\Ex7\Ex7\obj\Debug\Ex7.exe
+D:\דף מעבדה 7\Ex7\Ex7\obj\Debug\Ex7.pdb

@@ -1,0 +1,7 @@
+F:\Personal\School\Computers\C#\Files\דף מעבדה 1\Page1-Ex4\Page1-Ex4\bin\Debug\Page1-Ex4.exe.config
+F:\Personal\School\Computers\C#\Files\דף מעבדה 1\Page1-Ex4\Page1-Ex4\bin\Debug\Page1-Ex4.exe
+F:\Personal\School\Computers\C#\Files\דף מעבדה 1\Page1-Ex4\Page1-Ex4\bin\Debug\Page1-Ex4.pdb
+F:\Personal\School\Computers\C#\Files\דף מעבדה 1\Page1-Ex4\Page1-Ex4\obj\Debug\Page1-Ex4.csprojResolveAssemblyReference.cache
+F:\Personal\School\Computers\C#\Files\דף מעבדה 1\Page1-Ex4\Page1-Ex4\obj\Debug\Page1-Ex4.csproj.CoreCompileInputs.cache
+F:\Personal\School\Computers\C#\Files\דף מעבדה 1\Page1-Ex4\Page1-Ex4\obj\Debug\Page1-Ex4.exe
+F:\Personal\School\Computers\C#\Files\דף מעבדה 1\Page1-Ex4\Page1-Ex4\obj\Debug\Page1-Ex4.pdb

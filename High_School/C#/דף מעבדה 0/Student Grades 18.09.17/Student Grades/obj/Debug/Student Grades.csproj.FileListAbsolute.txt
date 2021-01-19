@@ -1,0 +1,6 @@
+E:\Personal\School\Computers\C#\Student Grades\Student Grades\bin\Debug\Student Grades.exe.config
+E:\Personal\School\Computers\C#\Student Grades\Student Grades\bin\Debug\Student Grades.exe
+E:\Personal\School\Computers\C#\Student Grades\Student Grades\bin\Debug\Student Grades.pdb
+E:\Personal\School\Computers\C#\Student Grades\Student Grades\obj\Debug\Student Grades.csprojResolveAssemblyReference.cache
+E:\Personal\School\Computers\C#\Student Grades\Student Grades\obj\Debug\Student Grades.exe
+E:\Personal\School\Computers\C#\Student Grades\Student Grades\obj\Debug\Student Grades.pdb

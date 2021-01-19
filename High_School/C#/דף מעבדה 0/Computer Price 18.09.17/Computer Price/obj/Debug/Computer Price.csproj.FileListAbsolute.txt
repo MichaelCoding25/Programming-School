@@ -1,0 +1,9 @@
+E:\Personal\School\Computers\C#\Computer Price\Computer Price\bin\Debug\Computer Price.exe.config
+E:\Personal\School\Computers\C#\Computer Price\Computer Price\bin\Debug\Computer Price.exe
+E:\Personal\School\Computers\C#\Computer Price\Computer Price\bin\Debug\Computer Price.pdb
+E:\Personal\School\Computers\C#\Computer Price\Computer Price\obj\Debug\Computer Price.csprojResolveAssemblyReference.cache
+E:\Personal\School\Computers\C#\Computer Price\Computer Price\obj\Debug\Computer Price.exe
+E:\Personal\School\Computers\C#\Computer Price\Computer Price\obj\Debug\Computer Price.pdb
+E:\Personal\School\Computers\C#\Computer Price 18.09.17\Computer Price\bin\Debug\Computer Price.exe.config
+E:\Personal\School\Computers\C#\Computer Price 18.09.17\Computer Price\obj\Debug\Computer Price.exe
+E:\Personal\School\Computers\C#\Computer Price 18.09.17\Computer Price\obj\Debug\Computer Price.pdb
