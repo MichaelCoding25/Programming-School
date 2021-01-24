@@ -19,20 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fca98164-281e-44df-9130-ae2304fdee9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Ex2_v1/src/Ex2/Ex2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ex1/325112738.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ex1/MyProgram/out/production/MyProgram/Ex1/Ex1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex1/MyProgram/out/production/MyProgram/Ex1/Ex1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ex1/MyProgram/out/production/MyProgram/Ex1/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex1/MyProgram/out/production/MyProgram/Ex1/Readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ex1/MyProgram/src/Ex1/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Ex1/MyProgram/src/Ex1/Ex1.java" afterDir="false" />
-    </list>
+    <list default="true" id="fca98164-281e-44df-9130-ae2304fdee9b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
   </component>
   <component name="ProjectId" id="1kBRbLP1qfKrfm8e7qbcUT74SZ3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -42,9 +36,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Ex2_v1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -72,6 +67,7 @@
       <workItem from="1606171325292" duration="7000" />
       <workItem from="1606326629849" duration="61000" />
       <workItem from="1606326793675" duration="35000" />
+      <workItem from="1611479887259" duration="41000" />
     </task>
     <servers />
   </component>
